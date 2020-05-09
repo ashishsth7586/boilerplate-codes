@@ -1,0 +1,1 @@
+export { textTruncate } from "./misc";
